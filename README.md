@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://chatgpt.com/s/m_6a45790b1c388191ae24c2d5daf88e07" width="500">
+  <img src="[![85407A37-7EFC-49C3-8CCB-A57B6070EE1C.jpg](https://i.postimg.cc/tC7zqm2J/85407A37-7EFC-49C3-8CCB-A57B6070EE1C.jpg)](https://postimg.cc/1fhFMMx1)" width="500">
 </p>
 
 ---
