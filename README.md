@@ -1,18 +1,18 @@
 <h1 align="left">
   Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br><br>
-  أنا ريتاج جوهر | Retaj Johar <br>
+  ريتاج جوهر | Retaj Johar <br>
   Front-End Developer 💻✨
 </h1>
 
 <p align="center">
-  <img src="ضعي_رابط_الصورة_هنا" width="500">
+  <img src="https://chatgpt.com/s/m_6a45790b1c388191ae24c2d5daf88e07" width="500">
 </p>
 
 ---
 
 ## 👩🏻‍💻 About Me
 
-- 💜 اسمي ريتاج جوهر | Retaj Johar  
+- 💜 Retaj Johar  
 - 🌱 Currently learning Front-End Development  
 - 🎨 I enjoy building modern and beautiful websites  
 - 📚 Learning every day and improving my coding skills  
